@@ -8,6 +8,7 @@ import './App.css';
  */
 interface IState {
   data: ServerRespond[],
+  // adding the boolean type to showgraph property
   showGraph : boolean,
 }
 
